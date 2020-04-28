@@ -15,8 +15,7 @@ For stable operation, you may need to install Microsoft Visual C++ 2015 or later
 
 `http://212.26.237.212:2222/api.bring?platform_id=2&need_bring=1` выдаёт следующее : `API Error: Need "md5_gamename_plus_platform_id_hash" param`
 
-gamename = CTFGame
-platform_id = 2
+gamename = CTFGame, platform_id = 2
 
 Находим необходимый md5 хэш, подставляем его в `http://212.26.237.212:2222/api.getflag?hash=0` вместо 0.
 
