@@ -13,7 +13,7 @@ For stable operation, you may need to install Microsoft Visual C++ 2015 or later
 
 В файле `requester.odj` находим `http://212.26.237.212:2222/api.getflag?hash=0` и `http://212.26.237.212:2222/api.bring?platform_id=0&need_bring=0`. Помучаем последную ссылочку, изменяя параметры `platform_id` и `need_bring`. 
 
-`http://212.26.237.212:2222/api.bring?platform_id=2&need_bring=1` выдаёт следующее : `API Error: Need "md5_gamename_plus_platform_id_hash" param`
+`http://212.26.237.212:2222/api.bring?platform_id=2&need_bring=1` выдаёт следующее : `API Error: Need "md5_gamename_plus_platform_id_hash" param`.
 
 gamename = CTFGame, platform_id = 2
 
