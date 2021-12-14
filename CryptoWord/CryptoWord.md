@@ -6,6 +6,9 @@
 Вам необходимо что-то расшифровать и в результате получить флаг.
 Более подробную информацию можно найти тут: https://kmb.cybber.ru/crypto/main.html
 ```
+
+Файл из задания [здесь](https://github.com/Rakabidaasta/rznctf/blob/master/CryptoWord/write_text.vbe)
+
 ---
 
 `write_text` - это .vbe файл сценария на Windows. Меняем расширение: `write_text.vbe`.
