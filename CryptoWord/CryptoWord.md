@@ -13,7 +13,7 @@
 
 `write_text` - это .vbe файл сценария на Windows. Меняем расширение: `write_text.vbe`.
 
-Гуглим что такое vbe, находим что это Encoded VBS
+Гуглим что такое vbe, находим, что это Encoded VBS
 
 Затем ищем `VBE to VBS`. Используем онлайн утилиту (например [эту](https://master.ayra.ch/vbs/vbs.aspx)).
 
