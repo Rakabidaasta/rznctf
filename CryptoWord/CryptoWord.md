@@ -7,7 +7,7 @@
 Более подробную информацию можно найти тут: https://kmb.cybber.ru/crypto/main.html
 ```
 
-Файл из задания [здесь](https://github.com/Rakabidaasta/rznctf/blob/master/CryptoWord/write_text.vbe)
+Файл из задания [здесь](https://github.com/Rakabidaasta/rznctf/blob/master/CryptoWord/write_text)
 
 ---
 
